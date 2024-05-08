@@ -20,4 +20,4 @@ I will only analyse this data using inferential statistics as modelling is not t
 
 Access the data here - https://survey.stackoverflow.co/
 
-I have also written a blog post on Medium to summarise my findings. Please give it a read - 
+I have also written a blog post on Medium to summarise my findings. Please give it a read - https://medium.com/@anuragsinghal1610/breaking-the-mold-self-taught-vs-formally-educated-developers-e19bd5ddc989
