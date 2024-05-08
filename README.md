@@ -16,6 +16,18 @@ I will only analyse this data using inferential statistics as modelling is not t
 4. Null rows in EdLevel and CompTotal columns are dropped
 5. Direct comparison of Salary was giving a very skewed visualization due to which normalizing the column was necessary
 
+## Data
+
+I've uploaded the dataset folder as a .zip file. Once you extract the folder, you will find the following files:
+  1. readme_2023
+  2. so_survey_2023
+  3. survey_results_public
+  4. survey_results_schema
+
+You can read file 1 & 2 to know more about how the survey was conducted and some general terms and conditions. File 3 & 4 are the data file used for the analysis.
+
+File 3 holds the actual response data used to analyse the data, and file 4 can be used to understand the data in file 3. It will help explain what each column stands for.
+
 ## Links
 
 Access the data here - https://survey.stackoverflow.co/
